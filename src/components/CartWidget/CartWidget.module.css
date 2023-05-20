@@ -1,0 +1,11 @@
+.cart {
+  position: relative;
+  background-color: transparent;
+  border: none;
+  margin: 2rem;
+}
+
+.cart__icon {
+  color: rgb(122, 8, 8);
+  font-size: 2rem;
+}

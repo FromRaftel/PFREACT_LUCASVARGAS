@@ -1,0 +1,12 @@
+.catalogue__container {
+     text-align: center;
+}
+
+.greeting {
+     margin: 2rem;
+     color: rgb(200, 0, 60);
+     text-align: center;
+     font-family: 'Courier New', Courier, monospace;
+     font-size: medium;
+     font-weight: bold;
+}

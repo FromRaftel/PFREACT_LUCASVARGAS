@@ -1,0 +1,23 @@
+/* .checkout__btn {
+     margin: .5rem;
+     border-radius: 5%;
+     width: 20%;
+     background-color: rgb(120, 191, 214);
+     font-weight: bold; 
+}*/
+
+.container {
+     text-align: center;
+}
+
+.checkout__link {
+     text-decoration: none;
+     font-family: 'Courier New', Courier, monospace;
+     color: black;
+     font-weight: bold;
+}
+
+.checkout__link:hover {
+     text-decoration: none;
+     color: black;
+}

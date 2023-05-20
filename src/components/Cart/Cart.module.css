@@ -1,0 +1,31 @@
+/* .cart__item__container {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+} */
+
+.cart__btn__back {
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: bold;
+}
+
+.cart__link__back {
+     text-decoration: none;
+     color: black;
+}
+
+.cart__btn__empty {
+     color: black;
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: bold;
+}
+
+.cart__btn__buy {
+     color: black;
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: bold;
+}
+
+.cart__btn__buy:hover {
+     color: black;
+}

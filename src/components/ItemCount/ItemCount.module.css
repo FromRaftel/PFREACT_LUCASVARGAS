@@ -1,0 +1,55 @@
+.container {
+     text-align: center;
+}
+
+.name {
+     color: black;
+}
+
+.controls {
+     color: black;
+     font-weight: bolder;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     margin-top: .5rem;
+     margin-bottom: .5rem;
+}
+
+.controls__btn {
+     width: 2rem;
+     height: 2rem;
+     border-radius: 50%;
+     border: .1rem solid;
+     margin-left: 1rem;
+     margin-right: 1rem;
+     background-color: lightgray;
+     color: black;
+     font-weight: bolder;
+}
+
+.add {
+     color: black;
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: bolder;
+}
+
+.add:hover {
+     color: black;
+}
+
+.back {
+     color: black;
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: bolder;
+}
+
+.link__back {
+     text-decoration: none;
+     color: black;
+}
+
+.link__back:hover {
+     color: black;
+}

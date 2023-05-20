@@ -1,0 +1,9 @@
+.list__container {
+     background-color: rgb(250, 250, 250);
+     /* display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     column-gap: .5rem; */
+     justify-content: space-around;
+}
