@@ -24,7 +24,7 @@ Clonás el proyecto desde tu editor de código
 Te ubicás en la carpeta del proyecto
 
 ```bash
-  cd proyecto_final_react
+  cd PFREACT_LUCASVARGAS-master
 ```
 
 Instalás las dependencias
